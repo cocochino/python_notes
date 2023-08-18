@@ -1,0 +1,9 @@
+[DONOR1]
+name = Donor One
+blood_type = O+
+status = active
+
+[DONOR Invalid]
+name = Donor invalid
+blood_type = C-
+status = inactive
